@@ -1,5 +1,5 @@
 # WebAgency
-Intégration d'une maquette
+Intégration d'une maquette vers en code sous CSS et balise HTML.
 
 # Présentation:
 Vous pouvez la présentation compléte du projet que j'ai réalisé durant ma soutenance :
